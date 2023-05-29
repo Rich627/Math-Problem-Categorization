@@ -1,6 +1,6 @@
 # Kaggle Competition: Mathematical Problem Classification
 
-Welcome to my project on Mathematical Problem Classification! I participated in a [Kaggle competition](https://www.kaggle.com/competitions/math-problem-categorization) and achieved the 4th position. In this competition, our goal was to classify mathematical problems into different categories, such as algebra, calculus, geometry, and more, based on their descriptions. We leveraged deep learning frameworks like LSTM and RNN to tackle this problem.
+Welcome to my project on Mathematical Problem Classification! I participated in a [Kaggle competition](https://www.kaggle.com/competitions/math-problem-categorization). In this competition, our goal was to classify mathematical problems into different categories, such as algebra, calculus, geometry, and more, based on their descriptions. We leveraged deep learning frameworks like LSTM and RNN to tackle this problem.
 
 ## Competition Overview
 
